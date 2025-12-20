@@ -1,0 +1,8 @@
+fastapi==0.124.4
+uvicorn==0.38.0
+sqlalchemy==2.0.45
+aiosqlite==0.22.0
+scikit-learn==1.8.0
+pandas==2.3.3
+joblib==1.5.2
+python-multipart==0.0.20
