@@ -1,0 +1,38 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+.env*
+
+# Python / ML
+venv/
+__pycache__/
+*.pkl
+*.db
+
+# Build
+dist/
+build/
+coverage/
+.next/
+out/
+
+# OS
+.DS_Store
+
+# Deployment
+.vercel
+
+# Yarn
+.pnp
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/versions
+
+# TypeScript
+*.tsbuildinfo
+next-env.d.ts
